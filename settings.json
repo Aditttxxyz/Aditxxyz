@@ -1,0 +1,16 @@
+{
+    "self_mode": false,
+    "anti_delete": false,
+    "anti_call": true,
+    "autorespon": true,
+    "user_register": true,
+    "auto_welcome": true,
+    "auto_leave": true,
+	"prefix": "#",
+	"ownerNumber": "6285213510153",
+	"ownername": "Aditxyz",
+	"botname":"Aditzyx",
+	"thumbnail":"logo1.png",
+	"fakethumb":"logo2.png",
+	"url_gif":"https://telegra.ph/file/c864fc477fa22e0d4bfc3.mp4"
+}
